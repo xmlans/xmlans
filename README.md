@@ -2,3 +2,4 @@
 - 👀 I’m interested in eat, playing CS2 and love everyone.
 - 🌱 I’m currently learning English and Python.
 - 📫 My email: xmlans@xmc.tw
+- ![09FC5311](https://github.com/user-attachments/assets/a9aeed52-59f6-41ec-a412-ed536067f385) 
