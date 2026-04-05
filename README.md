@@ -15,3 +15,7 @@
 
 经验：
 - 三年服务器管理与维护经验
+
+<a href="https://github.com/xmlans?tab=repositories" >
+  <img align=right width="45%" src="https://github-readme-stats-git-master-airopis-projects.vercel.app/api?username=xmlans&count_private=true&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
+</a>
