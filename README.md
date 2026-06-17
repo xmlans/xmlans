@@ -1,3 +1,7 @@
+> 可爱，坚强，温柔
+>
+> Be cute, be strong, be gentle
+
 - 👋 你好呀，我是兰酱qwq Hey! I am 兰酱qwq
 - 写不好前端的...工程师 Front-end Engineer
 -  ⌈ 个人频道 Telegram Channel ⌋：[@rlria](https://t.me/rlria)
