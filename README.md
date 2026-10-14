@@ -23,6 +23,11 @@
 ![LGBTQ+ Friendly](https://pride-badges.pony.workers.dev/static/v1?label=lgbtq%2B%20friendly&stripeWidth=6&stripeColors=E40303,FF8C00,FFED00,008026,24408E,732982)
 [![wakatime](https://wakatime.com/badge/user/5eb705e6-4ca8-4694-b16c-823364d7f9d1.svg)](https://wakatime.com/@5eb705e6-4ca8-4694-b16c-823364d7f9d1) 
 
+好玩的项目 <br>
+ [AI角色卡提示词/AI Prompts](https://github.com/Star-Dream-AI/system-prompt) 不想有一个自己的AI女朋友嘛~ 支持自己部署也可以用我的在线酒馆哦~ <br>
+ [Transgram-Desktop](https://github.com/xmlans/Transgram-Desktop) 一个第三方Telegram桌面客户端，使用了蓝粉白配色和新增一些小功能
+
+
 <a href="https://github.com/xmlans?tab=repositories" >
   <img align=right width="45%" src="https://github-readme-stats-git-master-airopis-projects.vercel.app/api?username=xmlans&count_private=true&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
 </a>
