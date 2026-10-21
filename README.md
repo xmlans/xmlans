@@ -28,6 +28,12 @@
  [Transgram-Desktop](https://github.com/xmlans/Transgram-Desktop) 一个第三方Telegram桌面客户端，使用了蓝粉白配色和新增一些小功能
 
 
-<a href="https://github.com/xmlans?tab=repositories" >
-  <img align=right width="45%" src="https://github-readme-stats-git-master-airopis-projects.vercel.app/api?username=xmlans&count_private=true&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
+
+<a href="https://github.com/xmlans?tab=repositories">
+  <img
+    align="right"
+    width="45%"
+    src="https://github-readme-stats-git-master-airopis-projects.vercel.app/api?username=xmlans&count_private=true&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&bg_color=fff0f5&title_color=ff69b4&text_color=db7093&icon_color=ff69b4&border_color=ffb6c1"
+  />
 </a>
+
