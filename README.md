@@ -29,11 +29,32 @@
 
 
 
-<a href="https://github.com/xmlans?tab=repositories">
-  <img
-    align="right"
-    width="45%"
-    src="https://github-readme-stats-git-master-airopis-projects.vercel.app/api?username=xmlans&count_private=true&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&bg_color=fff0f5&title_color=ff69b4&text_color=db7093&icon_color=ff69b4&border_color=ffb6c1"
-  />
-</a>
+<div align="center">
 
+  <h3>My GitHub Statistics</h3>
+
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img
+          width="100%"
+          src="https://github-readme-stats-git-master-airopis-projects.vercel.app/api?username=xmlans&count_private=true&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&bg_color=fff0f5&title_color=ff69b4&text_color=db7093&icon_color=ff69b4&border_color=ffb6c1"
+        />
+      </td>
+      <td align="center" width="50%">
+        <img
+          width="100%"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmlans&layout=compact&bg_color=fff0f5&title_color=ff69b4&text_color=db7093&border_color=ffb6c1"
+        />
+      </td>
+    </tr>
+  </table>
+
+  <br>
+
+  <img
+    width="60%"
+    src="https://streak-stats.demolab.com/?user=xmlans&background=FFF0F5&ring=FF69B4&fire=FF1493&currStreakLabel=DB7093&sideLabels=DB7093&dates=DB7093&stroke=FFB6C1"
+  />
+
+</div>
