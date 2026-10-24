@@ -6,9 +6,10 @@
 - 写不好前端的...工程师 Front-end Engineer
 -  ⌈ 个人频道 Telegram Channel ⌋：[@rlria](https://t.me/rlria)
 -  ⌈ 个人博客 Blog ⌋：[xmlans.com](https://www.xmlans.com)
+-  ⌈ 个人小群 Group ⌋：[@zcofo](https://t.me/zcofo)
 
 联系我 Contact <br>
--  ⌈ Telegram ⌋：[@xmlans](https://t.me/xmlans)
+-  ⌈ Telegram ⌋：[@xmlans](https://t.me/xmlans) 欢迎来找我聊天！
 -  ⌈ Email ⌋：[xmqwqawa@gmail.com](mailto:xmqwqawa@gmail.com)
 
 技能 Skills <br> 
